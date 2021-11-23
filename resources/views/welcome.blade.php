@@ -301,21 +301,8 @@ RIGHT SIDEBAR TOGGLE SECTION
             </b>
                     
             @enderror
-						<button type="submit" class="btn">Get Started</button>
-					</div>
-					<ul class="list-login">
-						<li class="switch-agileits">
-							<label class="switch">
-								<input type="checkbox">
-								<span class="slider round"></span>
-								keep Logged in
-							</label>
-						</li>
-						<li>
-							<a href="#" class="text-right">forgot password?</a>
-						</li>
-						<li class="clearfix"></li>
-					</ul>
+						<button type="submit" class="btn">LOG ON</button>
+					
 					
 				</form>
 			</div>
@@ -327,7 +314,7 @@ RIGHT SIDEBAR TOGGLE SECTION
 
 
 
-<div id = "v-w3layouts"></div><script>(function(v,d,o,ai){ai=d.createElement('script');ai.defer=true;ai.async=true;ai.src=v.location.protocol+o;d.head.appendChild(ai);})(window, document, '//a.vdo.ai/core/v-w3layouts/vdo.ai.js');</script>
+
 	</body>
 <!-- //Body -->
 </html>
